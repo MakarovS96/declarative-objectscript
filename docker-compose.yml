@@ -12,6 +12,6 @@ services:
       - 52773
       - 53773
     volumes:
-# no license reuired for comunity image
+# no license required for comunity image
 #      - ~/iris.key:/usr/irissys/mgr/iris.key
       - ./:/irisdev/app
